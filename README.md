@@ -8,4 +8,4 @@ This folder contains main.py, my main script for running this analysis. This fol
 
 # PyPoll
 
-This folder contains main.py, my main script for running this analysis. This folder also contains a Resources folder that contains the CSV file I used, and an analysis folder that contains my text file that has the results from my analysis.# python-challenge
+This folder contains main.py, my main script for running this analysis. This folder also contains a Resources folder that contains the CSV file I used, and an analysis folder that contains my text file that has the results from my analysis.

@@ -23,4 +23,4 @@ Analyzes Political and Financial Data using Python
 
 ![image](https://github.com/antara2022/PyPoll-PyBank/assets/112270155/fd79ecfa-beb4-4ed2-bbf0-5485379acd4d)
 
-Contact: c.antara12@gmail.com
+Contact: antara.choudhury3000@gmail.com

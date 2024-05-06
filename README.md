@@ -1,11 +1,26 @@
-# Python-Challenge
+## PyPoll and PyBank
+Analyzes Political and Financial Data using Python
 
-During this project, I used concepts that I have learned to complete two Python challenges, PyBank and PyPoll. For PyBank, I created a Python script that analyzes the financial records of a company and calculates each of the following values: the total number of months included in the dataset, the net total amount of "Profit/Losses" over the entire period, the changes in "Profit/Losses" over the entire period, and then the average of those changes, the greatest increase in profits (date and amount) over the entire period and the greatest decrease in profits (date and amount) over the entire period. For PyPoll, I created a Python script that analyzes the votes and calculates each of the following values: the total number of votes cast, a complete list of candidates who received votes, the percentage of votes each candidate won, the total number of votes each candidate won and the winner of the election based on popular vote.
+## Objectives
 
-# PyBank
+### Step 1 - PyPoll
+- Create a Python script that analyzes the votes and calculates each of the following values:
+  - The total number of votes cast
+  - A complete list of candidates who received votes
+  - The percentage of votes each candidate won
+  - The total number of votes each candidate won
+  - The winner of the election based on popular vote
 
-This folder contains main.py, my main script for running this analysis. This folder also contains a Resources folder that contains the CSV file I used, and an analysis folder that contains my text file that has the results from my analysis.
+![image](https://github.com/antara2022/PyPoll-PyBank/assets/112270155/0c7c7cac-4e14-4628-9d56-ea6b48fa7245)
 
-# PyPoll
+### Step 2 - PyBank
+- Create a Python script that analyzes the records to calculate each of the following values:
+  - The total number of months included in the dataset
+  - The net total amount of "Profit/Losses" over the entire period
+  - The changes in "Profit/Losses" over the entire period, and then the average of those changes
+  - The greatest increase in profits (date and amount) over the entire period
+  - The greatest decrease in profits (date and amount) over the entire period
 
-This folder contains main.py, my main script for running this analysis. This folder also contains a Resources folder that contains the CSV file I used, and an analysis folder that contains my text file that has the results from my analysis.
+![image](https://github.com/antara2022/PyPoll-PyBank/assets/112270155/fd79ecfa-beb4-4ed2-bbf0-5485379acd4d)
+
+Contact: c.antara12@gmail.com
